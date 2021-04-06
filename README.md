@@ -47,6 +47,10 @@ Just switch to a branch, work on the exercise, commit your changes to that branc
   - [Using the Effect Hook](https://reactwithhooks.netlify.app/docs/hooks-effect.html)
   - [Hooks API Reference: useEffect](https://reactwithhooks.netlify.app/docs/hooks-reference.html#useeffect)
 
+- Cheatsheet:
+
+  - [React Hooks Cheatsheet](https://react-hooks-cheatsheet.com/useeffect)
+
 - Extra docs:
 
   - [How the useEffect Hook Works](https://daveceddia.com/useeffect-hook-examples/)
