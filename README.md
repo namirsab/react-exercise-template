@@ -1,70 +1,56 @@
-# Getting Started with Create React App
+# Exercises: React - useEffect hook
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This repository contains 4 exercises to train the `useEffect` hook from React.
 
-## Available Scripts
+The repository contains 5 branches:
 
-In the project directory, you can run:
+- `main`: just for this README and general resources
+  And 4 branches, 1 per exercise:
+- `1-use-effect-basics`
+- `2-window-resize`
+- `3-counter-local-storage`
+- `4-using-external-api`
 
-### `npm start`
+## How to use it?
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+This project has been generated with [`create-react-app`](https://randomuser.me/documentation#results).
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+To install all the dependencies of the project before we start working, we run:
 
-### `npm test`
+`npm install` or `npm i`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Once we are set, we have to run
 
-### `npm run build`
+`npm start`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+to start the development server.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Doing the exercises
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Now that we have our project setup, all dependencies installed and the development server running, we can just switch between branches.
+Each branch has its own README.md explaining what you need to achieve in the
+exercise.
+Just switch to a branch, work on the exercise, commit your changes to that branch and when you are done, you can switch to the next exercise.
 
-### `npm run eject`
+## Resources
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- Official Documentation:
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+  - [Using the Effect Hook](https://reactwithhooks.netlify.app/docs/hooks-effect.html)
+  - [Hooks API Reference: useState](https://reactwithhooks.netlify.app/docs/hooks-reference.html#useeffect)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+- Extra docs:
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+  - [How the useEffect Hook Works](https://daveceddia.com/useeffect-hook-examples/)
+  - [The Last Guide to the useEffect hook you'll ever need](https://blog.logrocket.com/guide-to-react-useeffect-hook/)
 
-## Learn More
+- Videos:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+  - The Net Ninja:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+    - [useEffect Basics](https://www.youtube.com/watch?v=gv9ugDJ1ynU)
+    - [useEffect dependencies](https://www.youtube.com/watch?v=jQc_bTFZ5_I)
+    - [fetching data with useEffect](https://www.youtube.com/watch?v=qdCHEUaFhBk)
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+  - Web Dev Simplified:
+    - [useEffect in 13 minutes](https://www.youtube.com/watch?v=0ZJgIjIuY7U)
