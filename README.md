@@ -11,6 +11,14 @@ The repository contains 5 branches:
 - `3-counter-local-storage`
 - `4-using-external-api`
 
+## Using the template
+
+Use the template feature from GitHub to create a new repository under your profile.
+
+**Make sure you tick the checkbox "Include all branches"**
+
+Once you are set, you can clone your newly created repository and proceed.
+
 ## How to use it?
 
 This project has been generated with [`create-react-app`](https://randomuser.me/documentation#results).
