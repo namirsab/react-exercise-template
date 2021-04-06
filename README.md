@@ -37,7 +37,7 @@ Just switch to a branch, work on the exercise, commit your changes to that branc
 - Official Documentation:
 
   - [Using the Effect Hook](https://reactwithhooks.netlify.app/docs/hooks-effect.html)
-  - [Hooks API Reference: useState](https://reactwithhooks.netlify.app/docs/hooks-reference.html#useeffect)
+  - [Hooks API Reference: useEffect](https://reactwithhooks.netlify.app/docs/hooks-reference.html#useeffect)
 
 - Extra docs:
 
