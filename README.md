@@ -60,7 +60,7 @@ For that, you already have prepared 2 files under the `components/` folder.
   - It must be a stateful component
   - On first render, it should get the data coming from the API and store it
     in its state. Make it use an effect, where you use the `fetch` function to get the data from the API.
-  - It should render the list of users using the `User` componen you defined before.
+  - It should render the list of users using the `User` component you defined before.
 
 ## Step 2
 
